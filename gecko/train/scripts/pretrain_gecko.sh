@@ -1,15 +1,3 @@
-#!/bin/bash
-#SBATCH --job-name=train_fuyu
-#SBATCH --nodes=1
-#SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=16
-#SBATCH -p a100
-#SBATCH --gpus-per-node=4
-#SBATCH --time=72:00:00
-#SBATCH --qos=a100_wenhuchen
-#SBATCH --mem=230GB
-#SBATCH --output=../../jobs/%j.out
-
 nvidia-smi
 nvcc --version
 
