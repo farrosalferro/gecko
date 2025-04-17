@@ -1,0 +1,5 @@
+<image>
+Is the telephone booth on the left or right side of the yellow van?
+(A) right
+(B) left
+Answer with the option's letter from the given choices directly.

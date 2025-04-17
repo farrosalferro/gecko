@@ -1,0 +1,7 @@
+<image>
+What is the color of the little girl's shirt?
+(A) yellow
+(B) pink
+(C) white
+(D) black
+Answer with the option's letter from the given choices directly.

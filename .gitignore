@@ -1,0 +1,4 @@
+answers/*
+benchmarks/*
+gecko.egg-info
+*.pyc

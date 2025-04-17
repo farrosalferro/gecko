@@ -1,0 +1,5 @@
+<image>
+Is the blue luggage on the left or right side of the bus?
+(A) right
+(B) left
+Answer with the option's letter from the given choices directly.
