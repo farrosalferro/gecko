@@ -1,4 +1,4 @@
-# gecko: Guidance from Keyword for Identifying Small Details in High-Resolution Images with Vision-Language Models
+# Gecko: Guidance from Keyword for Identifying Small Details in High-Resolution Images with Vision-Language Models
 
 [[Project Page](https://farrosalferro.github.io/gecko.github.io/)] [[Benchmark](https://huggingface.co/datasets/farrosalferro24/multi_vstar_bench)] [[Model Zoo](https://huggingface.co/collections/farrosalferro24/gecko-66d9596ead2d8eb9febe2a0f)]
 
