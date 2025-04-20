@@ -15,7 +15,7 @@ conda create -n gecko python=3.10 -y
 conda activate gecko
 pip install --upgrade pip
 pip install -e .
-pip install flash-attn==2.5.8 --no-buil-isolation
+pip install flash-attn==2.5.8 --no-build-isolation
 ```
 
 ## Inference
@@ -63,6 +63,7 @@ gecko/
 
 Use the corresponding script for each benchmark:
 ```bash
+cd eval
 bash multi_vstar_bench.sh # for multi vstar bench
 bash vstar_bench.sh # for vstar bench
 ```
